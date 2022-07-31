@@ -1,2 +1,9 @@
-package guru.qa;public class TestPullRequest {
+package guru.qa;
+
+public class TestPullRequest {
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) {
+            System.out.println("i");
+        }
+    }
 }
